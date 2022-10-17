@@ -1,8 +1,22 @@
 {
-  "users": [
+  "token": {
+    "current_suuply": "100",
+    "nav": "10",
+    "tenure": "1",
+    "issue_size": "10",
+    "senior_apy": "1",
+    "junior_apy": "2",
+    "token_price": "122"
+  },
+  "assetList": [
     {
-      "id": "1",
-      "name": "asdg"
+      "asset_name": "Trial asset",
+      "asset_type": "Trade Finance",
+      "financing_date": "Jun 6, 2021",
+      "maturity_date": "Jun 18, 2024",
+      "financing_fee": "12",
+      "amount_invested": "10000",
+      "currency": "USXD"
     }
   ]
 }
