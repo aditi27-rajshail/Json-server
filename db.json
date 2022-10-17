@@ -1,6 +1,6 @@
 {
   "token": {
-    "current_suuply": "100",
+    "current_supply": "100",
     "nav": "10", 
     "tenure": "1",
     "issue_size": "10",
@@ -10,11 +10,31 @@
   },
   "assetList": [
     {
-      "asset_address" :"",
-      "asset_name": "Trial asset",
+      "asset_address" :"dhwiyfwhiej",
+      "asset_name": "Trial assetnew",
       "asset_type": "Trade Finance",
-      "financing_date": "Jun 6, 2021",
-      "maturity_date": "Jun 18, 2024",
+      "financing_date": "2025-10-10",
+      "maturity_date": "2025-10-10",
+      "financing_fee": "12",
+      "amount_invested": "10000",
+      "currency": "USXD"
+    },
+    {
+      "asset_address" :"cewjouni",
+      "asset_name": "Trial assetmew2",
+      "asset_type": "Trade Finance",
+      "financing_date": "2025-10-10",
+      "maturity_date": "2025-10-10",
+      "financing_fee": "12",
+      "amount_invested": "10000",
+      "currency": "USXD"
+    },
+    {
+      "asset_address" :"vnweoybiryvb",
+      "asset_name": "Trial assetnew1",
+      "asset_type": "Trade Finance",
+      "financing_date": "2025-10-10",
+      "maturity_date": "2025-10-10",
       "financing_fee": "12",
       "amount_invested": "10000",
       "currency": "USXD"
